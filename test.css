@@ -1,0 +1,22 @@
+h1 {
+  color: rgb(66, 113, 194);
+  text-align: center;
+}
+b {
+  color: rgb(97, 179, 220);
+  font-style: oblique;
+  font-size: 20px;
+}
+th {
+  color: rgb(224, 112, 43);
+}
+a {
+  color: rgb(220, 129, 50);
+  font-style: italic;
+}
+hr {
+  font-size: 20px;
+}
+body {
+  background-image: url(./Pictures/beach-9027513_1280.webp);
+}
